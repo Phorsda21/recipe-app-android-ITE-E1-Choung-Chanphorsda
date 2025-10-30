@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MAD Lab 2 - Recipe Finder</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="favorite">Favorite</string>
+    <string name="recipe_details">Recipe Details</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="category">Category</string>
+    <string name="area">Area</string>
+</resources>
